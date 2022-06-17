@@ -14,7 +14,7 @@
 
 .jumbo {
     height: 100vh;
-    background-image: url(lkb.jpeg);
+    background-image: url(images/lkb.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
@@ -25,21 +25,21 @@
 
 .card-img-top1 {
     height: 50vh;
-    background-image: url(discord.png);
+    background-image: url(images/discord.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .card-img-top2{
     height: 50vh;
-    background-image: url(Steam.jpeg);
+    background-image: url(images/Steam.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .card-img-top3{
     height: 50vh;
-    background-image: url(Twitch.jpeg);
+    background-image: url(images/Twitch.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

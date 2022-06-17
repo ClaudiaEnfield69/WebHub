@@ -1,31 +1,35 @@
-.bodybg{
-    background-image: url(images/abg.png);
-    background-repeat: no-repeat;
+.bodybg {
+    background-image: url(Sercetbg.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
 }
-.navbg {
-    background: rgba(255, 255, 255, .5);
-    border-radius: 5px;
-}
+
 .navbar-text {
     position: relative;
         left: -100px;
 }
+
+.navbg {
+    background: rgba(255, 255, 255, .5);
+    border-radius: 5px;
+}
+
 .navbar a {
     color: black;
 }
+
 .dropdown a {
-    color: black;
+   color: black;
 }
 
 .jumbo {
     text-align: center;
-    height: 50vh;
+    height: 47vh;
     width: 90vh;
     background: rgba(255, 255, 255, .5);
     border-radius: 5px;
 }
 .btnact:hover {
-    background-color: greenyellow;
-    border: greenyellow;
+    background-color: red;
+    border: red;
 }
